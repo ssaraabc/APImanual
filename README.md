@@ -1,4 +1,4 @@
-# Weather API manual
+# OpenWeather API manual
 In this manual you will learn how to connect a NodeMCU to a weather API and a ledstrip. 
 Weather will be visible through color! 
 
